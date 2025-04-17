@@ -76,7 +76,7 @@ The task is to generate and understand domain-specific knowledge. The dataset fo
 
 - axis 1 : Batch size - How many examples we have
 - axis 2 : 2 here - Question / Answer
-- axis 3 : The depth of the embeddings library for the machine - The sentences for a human
+- axis 3 : The dimension of the embeddings library for the machine - The sentences for a human
 
 
 ## References
